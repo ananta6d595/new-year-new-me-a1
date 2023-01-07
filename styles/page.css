@@ -41,9 +41,7 @@ section {
     display: flex;
     justify-content: end;
 }
-main {
 
-}
 /* banner */
 .banner {
     padding-top: 216px;
@@ -208,9 +206,7 @@ footer.contact {
     color: #FFFFFF;
     margin-bottom: 16px;
 }
-.links{
 
-}
 .links img{
     margin-right: 17px;
 }
